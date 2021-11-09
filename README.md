@@ -1,7 +1,5 @@
 # teste
-![](Cscreenshots.png)
+![](screenshot1.png)
 
-![](screenshots1.png)
-
-![](screenshots2.png)
+![](screenshot2.png)
 
